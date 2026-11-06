@@ -49,16 +49,3 @@ Part 1 was easiest for me because it took only a few steps and used specific com
 - [`Document.getElementById()` (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
 - [`Node.textContent` (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent)
 
-## Run the page locally
-
-Open `index.html` in a browser, or use a local web server:
-
-```bash
-python -m http.server 8000
-```
-
-Then visit:
-
-```text
-http://localhost:8000
-```
