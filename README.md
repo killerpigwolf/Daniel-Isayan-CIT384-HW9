@@ -22,6 +22,10 @@ This project creates a simple webpage that demonstrates JavaScript browser featu
 - `Number`: `Number()`, `Number.isNaN()`, `Number.isInteger()`, `toFixed()`, `toLocaleString()`, `Number.parseFloat()`, and `Number.parseInt()`
 - `document`: `getElementById()`, `textContent`, and `innerHTML`
 
+## GitHub Repository
+
+- Repository: https://github.com/killerpigwolf/Daniel-Isayan-CIT384-HW9
+
 ## GitHub Pages
 
 - Website: https://killerpigwolf.github.io/Daniel-Isayan-CIT384-HW9/
