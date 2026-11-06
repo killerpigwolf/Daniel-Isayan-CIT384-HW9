@@ -13,14 +13,32 @@ This project creates a simple webpage that demonstrates JavaScript browser featu
 - `script.js`
 - `style.css`
 - `README.md`
+- `screenshot.png` — screenshot of the finished webpage
 
-## GitHub Repository
+## Built-in Objects and Methods
 
-- Repository: https://github.com/killerpigwolf/Daniel-Isayan-CIT384-HW9
+- `Date`: `new Date()`, `getMonth()`, `getDate()`, and `getFullYear()`
+- `String`: `String()` and `padStart()`
+- `Number`: `Number()`, `Number.isNaN()`, `Number.isInteger()`, `toFixed()`, `toLocaleString()`, `Number.parseFloat()`, and `Number.parseInt()`
+- `document`: `getElementById()`, `textContent`, and `innerHTML`
 
 ## GitHub Pages
 
 - Website: https://killerpigwolf.github.io/Daniel-Isayan-CIT384-HW9/
+
+## Screenshot
+
+The finished webpage screenshot is saved in [`screenshot.png`](screenshot.png).
+
+## Reflection
+
+Add your own 4–5 sentence reflection here. Answer these questions:
+
+1. What part was easiest?
+2. What part was hardest?
+3. What did you learn about the `Date` object?
+4. What did you learn about the `Number` object?
+5. What did you learn about displaying results in the browser?
 
 ## Run the page locally
 
